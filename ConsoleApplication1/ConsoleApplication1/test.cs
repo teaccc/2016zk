@@ -7,5 +7,14 @@ namespace ConsoleApplication1
 {
     class test
     {
+
+
+        public  static  string sss;
+        public int ssd
+        {
+            get;
+            set;
+
+        }
     }
 }
