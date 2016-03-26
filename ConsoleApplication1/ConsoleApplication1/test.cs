@@ -16,5 +16,12 @@ namespace ConsoleApplication1
             set;
 
         }
+
+
+        public void  ss()
+        {
+            string s = new string();
+    
+        }
     }
 }
