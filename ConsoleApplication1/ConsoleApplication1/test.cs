@@ -23,5 +23,11 @@ namespace ConsoleApplication1
             string s = "sdfd";
     
         }
+
+
+        public test()
+        { 
+        
+        }
     }
 }
