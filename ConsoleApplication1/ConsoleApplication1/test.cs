@@ -20,7 +20,7 @@ namespace ConsoleApplication1
 
         public void  ss()
         {
-            string s = new string();
+            string s = "sdfd";
     
         }
     }
